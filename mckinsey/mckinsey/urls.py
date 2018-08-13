@@ -24,4 +24,4 @@ urlpatterns = [
     path('guides', views.guides, name='guides'),
     path('video', views.video, name='video'),
     path('payment', views.payment, name='payment'),
-]
+] 
